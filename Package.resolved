@@ -1,5 +1,5 @@
 {
-  "originHash" : "e2af802e133a1bd5c32508021a46ed66160207de483594041661897eeb080070",
+  "originHash" : "a76784d1b9a4aab46d65ce32e90b296c3c5ff0e35f7369a80e1540f49927e3a1",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/gaidasalwa/CoreModule.git",
       "state" : {
-        "revision" : "4f1c23349bac034dcb2c5267e531f4d7da10b853",
-        "version" : "1.0.0"
+        "revision" : "07f4357d2d4d6c9014217eaa50bc4224bc392c95",
+        "version" : "1.1.0"
       }
     },
     {
