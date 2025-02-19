@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/gaidasalwa/CoreModule.git",
       "state" : {
-        "revision" : "07f4357d2d4d6c9014217eaa50bc4224bc392c95",
-        "version" : "1.1.0"
+        "revision" : "267d87a6938e9b93477d67783d8734ada4004626",
+        "version" : "1.4.0"
       }
     },
     {
